@@ -1,0 +1,11 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/DrissiMourad22/microservice.git
+          username: DrissiMourad22
+          token: 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
+mes-config-ms:
+  commandes-last: 10
+
